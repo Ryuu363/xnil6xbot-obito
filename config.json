@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "obito-bot",
+  "nickNameBot": "Ryuu",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
@@ -21,17 +21,17 @@
   "adminBot": [
     "100078794143432",
     "100001986888287",
-    "100000180724818"
+    "61552846026185"
   ],
   "developers": [
     "100078794143432",
     "100001986888287",
-    "100000180724818"
+    "61552846026185"
   ],
   "premium": [
     "100078794143432",
     "100001986888287",
-    "100000180724818"
+    "61552846026185"
   ],
   "whiteListMode": {
     "enable": false,
